@@ -6,7 +6,7 @@ import java.io.OutputStream;
 import java.util.Date;
 
 /**
- * 使用ObjectOutputStream输入数据
+ * 使用ObjectOutputStream输出数据
  * 
  * @author 蒋稀杰
  * @version [V1.00, 2020年9月5日]
